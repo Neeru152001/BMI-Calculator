@@ -20,8 +20,8 @@ Before running the application, you need to install the following dependencies:<
 . Tkinter (which comes pre-installed with Python)<br>
 . Pillow (for image handling)<br>
 
-## Detailed Explanation<br>
-# GUI Structure<br>
+# Detailed Explanation<br>
+## GUI Structure<br>
 The application uses Tkinter to create the graphical interface, which is divided into different sections:<br>
 1. Icon and Top Image:<br>
    . The application uses a custom icon (icon.png) and a background image (top.png) placed at the top of the window.<br>
@@ -37,18 +37,18 @@ The application uses Tkinter to create the graphical interface, which is divided
         . A message indicating whether the user is underweight, normal weight, overweight, or obese.<br>
         . Health advice based on the BMI category.<br>
 
-# BMI Calculation<br>
+## BMI Calculation<br>
 The BMI is calculated using the formula:<br>
 BMI = Weight (kg) / (Height (m))^2 <br>
 The height is converted from centimeters to meters to ensure the proper units are used for the calculation. The result is then rounded to the nearest integer for display.<br>
 
-# Sliders and Dynamic Updates<br>
+## Sliders and Dynamic Updates<br>
 The height and weight sliders provide an interactive experience. As the sliders are moved:<br>
     . The height and weight text entries are updated in real-time.<br>
     . The image of a man (man.png) dynamically resizes according to the height input.<br>
     . The BMI value is recalculated and displayed immediately.<br>
 
-# Health Report Based on BMI<br>
+## Health Report Based on BMI<br>
 The program categorizes the BMI result into four categories:<br>
 a) Underweight (BMI ≤ 18.5): The user is advised to gain weight.<br>
 b) Normal (18.5 < BMI ≤ 25): The user is considered to have a healthy weight.<br>
@@ -56,7 +56,7 @@ c) Overweight (25 < BMI ≤ 30): The user is slightly overweight and may need to
 d) Obese (BMI > 30): The user is at risk of health issues and should consider losing weight.<br>
 Each category includes relevant health advice to help users understand their BMI and its implications for their health.<br>
 
-# Project Structure<br>
+## Project Structure<br>
 The project contains the following files:<br>
 1. bmi_calculator.py: The main Python script implementing the BMI calculator and GUI.<br>
 2. icon.png: The application icon image.<br>
