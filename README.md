@@ -74,3 +74,8 @@ Contributions to this project are welcome! You can:<br>
 # Acknowledgements<br>
 1. Tkinter: Python's standard GUI library for creating windows, buttons, and other GUI elements.<br>
 2. Pillow: Python Imaging Library (PIL) used for handling images, such as resizing the man image dynamically based on the height input.<br>
+
+# Contact 📬 <br>
+If you have any questions or suggestions, feel free to reach out:<br>
+Your Name: neerukct15@gmail.com<br>
+GitHub: Neeru152001<br>
