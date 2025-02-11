@@ -58,7 +58,7 @@ Each category includes relevant health advice to help users understand their BMI
 
 ## Project Structure<br>
 The project contains the following files:<br>
-1. bmi_calculator.py: The main Python script implementing the BMI calculator and GUI.<br>
+1. BMI.py: The main Python script implementing the BMI calculator and GUI.<br>
 2. icon.png: The application icon image.<br>
 3. top.png: The background image used at the top of the GUI.<br>
 4. box.png: The image used for the input box backgrounds.<br>
