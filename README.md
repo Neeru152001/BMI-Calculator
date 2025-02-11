@@ -4,7 +4,7 @@ This repository features a simple yet functional BMI (Body Mass Index) calculato
 
 The program is designed to be user-friendly, with interactive features like sliders and a live display of results. It is a great tool for understanding how BMI correlates with a person's<br> health and provides immediate feedback based on the user’s input.<br>
 
-# Features <br>
+# Features 🌟 <br>
 1. Interactive BMI Calculation: Users input their height and weight via sliders or text boxes, and the BMI is calculated automatically.<br>
 2. Dynamic Visual Feedback: As the height and weight sliders are adjusted, an image of a person is resized accordingly to visually represent the height input.<br>
 3. Health Status Report: The BMI result is categorized into one of four groups:<br>
