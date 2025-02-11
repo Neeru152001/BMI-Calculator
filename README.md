@@ -48,7 +48,7 @@ The height and weight sliders provide an interactive experience. As the sliders 
     . The image of a man (man.png) dynamically resizes according to the height input.<br>
     . The BMI value is recalculated and displayed immediately.<br>
 
-## Health Report Based on BMI<br>
+## Health Report Based on BMI 📝<br>
 The program categorizes the BMI result into four categories:<br>
 a) Underweight (BMI ≤ 18.5): The user is advised to gain weight.<br>
 b) Normal (18.5 < BMI ≤ 25): The user is considered to have a healthy weight.<br>
@@ -65,13 +65,13 @@ The project contains the following files:<br>
 5. scale.png: The image used for the slider scale background.<br>
 6. man.png: The image of a man used to represent the height in the visual feedback.<br>
 
-# Contributing<br>
+# Contributing 🤝<br>
 Contributions to this project are welcome! You can:<br>
 . Fork the repository and create a pull request with improvements or bug fixes.<br>
 . Report any issues you find by opening an issue on the repository.<br>
 . Suggest new features or enhancements via issues or pull requests.<br>
 
-# Acknowledgements<br>
+# Acknowledgements 🙌<br> 
 1. Tkinter: Python's standard GUI library for creating windows, buttons, and other GUI elements.<br>
 2. Pillow: Python Imaging Library (PIL) used for handling images, such as resizing the man image dynamically based on the height input.<br>
 
